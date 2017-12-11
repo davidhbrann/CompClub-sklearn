@@ -7,4 +7,4 @@ First, clone the repo, then to install all the requirements in a new conda env r
 
 Then, run `source activate allen` to activate the environment and `jupyter notebook` to run these notebooks.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dhb2128/CompClub-sklearn/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dhb2128/CompClub-sklearn/docker)
