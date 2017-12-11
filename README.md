@@ -9,7 +9,7 @@ Second, clone the repo, then install all the requirements in a new conda env by 
 
 Then, run `source activate allen` to activate the environment and `jupyter notebook` to run these notebooks.
 
-Or, click the binder link below to run the notebooks remotely!
+Or, click the binder link to run the notebooks remotely!
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dhb2128/CompClub-sklearn/docker)
 
 If you'd prefer to use a virtuenv you can also install the dependencies using `pip install -r requirements.txt`.
