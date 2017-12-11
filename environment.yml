@@ -1,5 +1,6 @@
 name: allen
-
+channels:
+- conda-forge
 dependencies:
   - python=2.7
   - numpy=1.13.*
@@ -11,6 +12,6 @@ dependencies:
   - jupyter
   - jupyterlab=0.3
   - notebook
+  - xgboost
   - pip:
     - allensdk
-    - xgboost
