@@ -11,5 +11,5 @@ dependencies:
   - jupyter
   - notebook
   - pip:
-	 - allensdk
-	 - xgboost
+    - allensdk
+    - xgboost
