@@ -13,3 +13,5 @@ Or, click the binder link to run the notebooks remotely!
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dhb2128/CompClub-sklearn/docker)
 
 If you'd prefer to use a virtuenv you can also install the dependencies using `pip install -r requirements.txt`.
+
+If you have any questions or suggestions, feel free to post an issue or pull request.
